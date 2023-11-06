@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trendyolscraper",
+  "private_key_id": "4a75874e987b4665b3e3b7a3a97deab245c6c793",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwlU0XwGYet9bB\nOHI1iLGye7Txym5iw9Fw4eFbvy4REP6zl7x0LwTDRscR2etwPU1GyekxpyBwvHAf\nrb2Vxl2OPrl55/te0yMlouWAfxiPDlCYYoXA9++802wZJDeFqeNRbXULF8Iuc4BN\ndCWsiUFEfzZ8LcD5lHW/Rz53qdCncpS8VAIGX2FE6QtZHv41lbk3DC6V9CyT2BRX\nJSYRWTxyorRds1Xj6iap/zsHuQJEJtxurvY2WRf7ll1Z0uCt7HLRqPImUYIeyWN4\ng1CSUdZOA7Xv/50gkaTQY6jb1eFyuPuq34aoPSHUVIjJbvVmFowYBi2jYPzoi7n1\nshETELuZAgMBAAECggEAGR2rQPEXNVBNpd7q861VJP9ObcOurrKOdCFUpfGL0laZ\n+55d6iKT6ViEUQgvYh/+AU8PsYXFafOLeR4DpK15uhU22V2DFeovChfgz8WEDzjo\ngrwkrR02xqNFsU/C6+qNkBPi/WhsMKIyAhI+l4tQMrdrXv88/uK8Wq/99RQ8vswj\nWgiCvVjSS4R7SP288jauHaxVOOlSDTop1Pt9L0bhRLp2IrdQv2gXVrByi54FPkTA\nuW5KiKxaBds4no5KIgFC4iH6GpxCAbmszgUEBTr2yadQsRAcIraZar5iHr+SjBC4\ntJv67wILxRgnU9YBEhQy58hGpS4OJxDnQtjKA0/AuQKBgQDXHbZp8kBqHR6Dx2Cx\nZ+GvgTqIS5/JUqciqHRuYwauOiel6s7Th4WUrpIXks1ZcvEVS4DKpMey+YkoKAv3\ngS1wKE47a/77lsm5D2tKUL4sjL93BumDSwXhB4Aub3alwuBYf2AjYUmthwRlriX2\nGjAPbykpjBon5FZ8TELSPW+SHQKBgQDSJM414xxhR0UzQegZ3DpaMhsd9JLzSPwh\nXlnfqQw4dpU0kCf83nbCDJHBJlUN1VfqQhAAq/ol9chRCOLyHqkK8dWGCGeSryuU\nLG6hD39sDiJAFL6t8vduclDT06gSWchGhtz7WyMcANtn+KiPBhvEMERAuzbBwuJ/\nmDawPeaWrQKBgAi81jn7cw5cXG7x3EWYeJxOXXhHyhe9WbiYqxIIx66wAghFP11s\nNcrSRHDcr6agepZo2LRieRIV/LI63jGRd60ElhjnzBWgDFWOAMel+/OHTAejqjyB\nAZ4gVd6M/H7DKaWultMZEosP3ufaaQRUD/uwgjWD0VQpfDHUTyqHAE8pAoGAW64T\nCQ98YjRlzGcEi8O48YDKs9bwBZPh6+zt6NYnrrqNfdEmoPutdBtnu4ytrstU/66y\nrJhbGhSQwEnQOTGHLm8zaLZh+WzS5mI8IahRPyMrbimexuUpbdYRzViaCueAqMRN\nxJuORblZ/5JMd5mCo6UrIdKLoR0VE/WkZl+bKkECgYEAw5E/hsL7PDqJy5rtsY4w\nSI628McqfqISK7lJUpModHsRhHDJ0XYGfJ2blimknKVQT/im6T+0cpi5MAJcadA8\nKbfYYd1cqFHNgnvNvKcQufhBJgdHjLdMsSxYlXuEFJaeo4bRLKcGsRQdj3W3txoC\njMc77cdDnzTNmyPnfh7jgGA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trendyolscraper@trendyolscraper.iam.gserviceaccount.com",
+  "client_id": "117039794457535936670",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trendyolscraper%40trendyolscraper.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
